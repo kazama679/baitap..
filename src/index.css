@@ -1,0 +1,64 @@
+.h3{
+  text-align: center;
+}
+.all-jobs{
+  padding: 30px;
+  text-align: center;
+}
+.input-job{
+  padding: 5px;
+  padding-left: 10px;
+  width: 300px;
+  border: 1px solid rgb(205, 205, 205);
+}
+.button-job{
+  margin-left: 10px;
+  padding: 5px 10px;
+  border: 1px solid rgb(31, 156, 252);
+  background-color: rgb(31, 156, 252);
+  border-radius: 2px;
+  color: white;
+}
+.name-job{
+  color: red;
+  margin-top: 10px;
+}
+.span-all{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.span{
+  padding: 10px;
+  cursor: pointer;
+}
+.box-jobs{
+  margin-top: 20px;
+}
+.div-jobs{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+.div-jobs-child1{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.div-jobs-child2{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.fa-pen{
+  color: orange;
+  cursor: pointer;
+}
+.fa-trash{
+  color: red;
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+}
